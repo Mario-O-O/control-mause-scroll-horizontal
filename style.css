@@ -1,0 +1,13 @@
+.content_cards {
+  overflow-x: auto;
+  display: flex;
+  padding-bottom: 25px;
+}
+
+.card {
+  background: slateblue;
+  text-align: center;
+  padding: 32px 15px;
+  border-radius: 40px;
+  margin: 15px;
+}
